@@ -1,1 +1,2 @@
-# Academic_Cars_project
+# Academic Cars project
+This project was totally academic, based on free online data sets.
